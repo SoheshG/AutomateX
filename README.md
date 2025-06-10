@@ -60,17 +60,3 @@ Led by Team AutomateX at Wai Technologies, this project was awarded the top priz
 - **Design Integration:** Figma API
 
 ---
-
-## 📂 Project Structure
-
-```plaintext
-AutomateX/
-├── backend/               # Python Flask server
-│   ├── api/               # Code generation logic
-│   ├── models/            # YOLO + LLM integration
-│   └── utils/             # Figma metadata processing
-├── frontend/              # React app (with Raaghu components)
-│   ├── components/
-│   ├── pages/
-│   └── styles/
-└── README.md
