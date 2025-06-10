@@ -2,7 +2,7 @@
 **AI-Powered Figma to React Converter with Raaghu Design System**
 
 ![AutomateX Banner](https://img.shields.io/badge/Built%20at-W%3CAI%3E%20Hackathon-blue?style=flat-square)
-![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner%202024-gold?style=flat-square)
+![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner%202025-gold?style=flat-square)
 ![Raaghu Design System](https://img.shields.io/badge/Raaghu-Design%20System-green?style=flat-square)
 
 ## 🔗 Project Demo
