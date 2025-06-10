@@ -6,7 +6,7 @@
 ![Raaghu Design System](https://img.shields.io/badge/Raaghu-Design%20System-green?style=flat-square)
 
 ## 🔗 Project Demo
-🎥 Watch the demo on YouTube: [AutomateX - Figma to React in Seconds](https://youtube.com/your-video-link-here)
+🎥 Watch the demo on YouTube: [AutomateX - Figma to React in Seconds]([https://youtube.com/your-video-link-here](https://youtu.be/N9IvRTtrY6o))
 
 ---
 
